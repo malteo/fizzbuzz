@@ -6,3 +6,4 @@
 > print "FizzBuzz".
  
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/malteo/fizzbuzz)
+[![Run on Repl.it](https://replit.com/badge/github/malteo/fizzbuzz)](https://replit.com/new/github/malteo/fizzbuzz)
